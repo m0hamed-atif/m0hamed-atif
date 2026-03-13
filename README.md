@@ -1,12 +1,11 @@
 <div align="center">
 
-# Mohamed Atif
+# 👋 Hi, I'm Mohamed Atif
 ### Data Engineer · Data Analyst
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+Scalable+Data+Pipelines;SQL+%7C+Python+%7C+ETL+%7C+Apache+Spark;From+Raw+Data+to+Business+Insights;Azure+%7C+Databricks+%7C+Power+BI)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=m0hamed-atif&label=Profile+Views&color=58A6FF&style=flat-square" alt="profile views" />
-
 
 </div>
 
@@ -38,7 +37,6 @@ Currently deepening expertise in **distributed processing with Apache Spark** an
 ### 🗄️ Databases & Data Warehousing
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Azure Synapse](https://img.shields.io/badge/Azure%20Synapse-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ### ⚙️ Data Engineering & Pipelines
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
