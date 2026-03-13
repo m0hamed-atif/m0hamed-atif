@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hi, I'm Mohamed Atif
-### Data Analyst
+### Data engineer . Analyst
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+Scalable+Data+Pipelines;SQL+%7C+Python+%7C+ETL+%7C+Apache+Spark;From+Raw+Data+to+Business+Insights;Azure+%7C+Databricks+%7C+Power+BI)](https://git.io/typing-svg)
 
