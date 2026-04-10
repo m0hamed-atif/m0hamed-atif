@@ -18,7 +18,7 @@ class MohamedAtif:
     role       = "Data Engineer | Data Analyst""
     focus      = ["Scalable Data Pipelines", "ETL Development", "Data Modeling"]
     expanding  = ["Apache Spark", "Cloud Data Platforms", "Distributed Processing"]
-    background = "Commerce & Accounting → Data Analytics → Data Engineering"
+    background = "Accounting &Finance  → Data Analytics → Data Engineering"
     goal       = "Build production-ready data infrastructure that drives decisions"
 ```
 
