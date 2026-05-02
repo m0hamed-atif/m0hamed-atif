@@ -15,7 +15,7 @@
 
 ```python
 class MohamedAtif:
-    role       = "Data Engineer | Data Analyst""
+    role       = "Data Analytics, Engineering""
     focus      = ["Scalable Data Pipelines", "ETL Development", "Data Modeling"]
     expanding  = ["Apache Spark", "Cloud Data Platforms", "Distributed Processing"]
     background = "Accounting &Finance  → Data Analytics → Data Engineering"
