@@ -1,156 +1,208 @@
-# <div align="center">
+<div align="center">
 
-# Hi, I'm Mohamed Atif 👋
+# 👋 Hi, I'm Mohamed Atif
 
-### **Data Analyst | Business Intelligence Analyst | Financial Analytics**
+### Data Analyst • Business Intelligence Analyst • Financial Analytics
 
-📍 **Cairo, Egypt**
-📧 **[mohamed.atif.gadalla@gmail.com](mailto:mohamed.atif.gadalla@gmail.com)**
-📞 **+20 109 276 8187**
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Data+Analyst;Business+Intelligence+Analyst;Power+BI+Developer;SQL+%7C+Python+%7C+Excel;Turning+Data+Into+Business+Insights" />
 
-<p align="center">
+<br>
+
+<a href="mailto:mohamed.atif.gadalla@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 <a href="https://www.linkedin.com/in/m0hamed-atif">
-<img src="https://img.shields.io/badge/LinkedIn-Mohamed%20Atif-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/m0hamed-atif">
-<img src="https://img.shields.io/badge/GitHub-m0hamed--atif-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</p>
+<img src="https://komarev.com/ghpvc/?username=m0hamed-atif&style=for-the-badge"/>
+
+</div>
 
 ---
 
-# 👨‍💻 About Me
+# 💡 About Me
 
-Data Analyst with an Accounting & Finance background, specializing in transforming raw data into meaningful business insights through **Power BI, SQL, Python, and Excel**.
+I'm a **Data Analyst** with an **Accounting & Finance** background who enjoys transforming raw data into actionable business insights.
 
-I enjoy building scalable analytics solutions, designing interactive dashboards, optimizing reporting processes, and uncovering hidden patterns that support strategic business decisions.
+I specialize in designing interactive dashboards, automating reporting processes, building SQL solutions, and uncovering patterns that help organizations make smarter decisions.
+
+### 🔹 What I Do
+
+* 📊 Business Intelligence Development
+* 📈 Financial & Operational Analytics
+* 🧹 Data Cleaning & Transformation
+* 📉 KPI Dashboard Development
+* 🗄 SQL Database Analysis
+* 🐍 Python Data Analysis
+* 📚 Data Storytelling
 
 ---
 
-# 🚀 Tech Stack
+# 🛠 Tech Stack
 
-### 📊 Business Intelligence
+## 📊 Business Intelligence
 
 <p>
-<img src="https://skillicons.dev/icons?i=powerbi"/>
-<img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Power_Query-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+
 </p>
 
-### 💻 Programming & Analytics
+## 💻 Programming
 
 <p>
+
 <img src="https://skillicons.dev/icons?i=python"/>
+
 <img src="https://skillicons.dev/icons?i=mysql"/>
+
 <img src="https://skillicons.dev/icons?i=postgres"/>
+
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+
 </p>
 
-### ☁️ Data Engineering
+## ☁️ Data Engineering
 
 <p>
-<img src="https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge&logo=microsoftazure"/>
-<img src="https://img.shields.io/badge/Azure_Databricks-FF3621?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Azure_Synapse-0078D4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Azure_SQL-0078D4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data_Lake-0052CC?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Azure_Blob-0078D4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Azure%20Synapse-0078D4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Azure%20SQL-0078D4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Data%20Lake-0052CC?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Azure%20Blob-0078D4?style=for-the-badge"/>
+
 </p>
 
-### 🛠 Tools
+## 🛠 Tools
 
 <p>
+
 <img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel"/>
+
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter"/>
+
 </p>
 
 ---
 
-# 💼 Experience
+# 💼 Professional Experience
 
-## 🚀 Data Engineer & Team Lead — DEPI
+## 🚀 Data Engineer & Team Lead
+
+**Digital Egypt Pioneers Initiative (DEPI)**
 
 **Nov 2025 – Jun 2026**
 
-* Led a team of 5 Data Engineers across multiple Azure projects.
-* Built cloud ETL pipelines using Azure Data Factory & Databricks.
-* Designed dimensional models and optimized enterprise reporting workflows.
-* Worked with Azure Synapse, Azure SQL, Data Lake Storage, and Blob Storage.
+✔ Led a team of five Data Engineers
+
+✔ Built Azure Data Factory ETL Pipelines
+
+✔ Developed cloud-based analytics solutions
+
+✔ Designed dimensional data models
+
+✔ Worked with Azure Synapse, Data Lake, Blob Storage and Azure SQL
 
 ---
 
-## 📈 Data Analytics Intern — Mazen Analytics Lab
+## 📊 Data Analytics Intern
+
+**Mazen Analytics Lab**
 
 **Jun 2025 – Nov 2025**
 
-* Delivered analytics solutions for Finance, HR, and Operations.
-* Automated Power BI dashboards reducing reporting effort by **50%**.
-* Processed datasets exceeding **50,000 rows** using SQL & Python.
-* Built ETL pipelines that reduced reporting turnaround by **30%**.
+✔ Delivered client analytics projects
+
+✔ Automated Power BI reporting
+
+✔ Cleaned 50K+ records
+
+✔ Built SQL + Python analytical pipelines
+
+✔ Reduced reporting effort by nearly 50%
 
 ---
 
-# 📂 Featured Projects
+# 🚀 Featured Projects
 
-## 💰 Payroll Fraud Detection & HR Analytics
+## 💰 Payroll Fraud Detection
 
-**Power BI • DAX • Excel**
+Power BI • DAX • Excel
 
-* Detected **608 duplicate employees**
-* Found **86 inactive employees receiving salaries**
-* Flagged nearly **$3M** in suspicious payroll expenses
-* Built executive fraud monitoring dashboard
+* Detected 608 duplicate employee records
+* Identified ghost employees
+* Flagged $3M suspicious payroll
+* Executive Fraud Dashboard
 
 🔗 https://github.com/m0hamed-atif/payroll-fraud-detection-analysis
 
 ---
 
-## ☎️ Call Center Performance Dashboard
+## ☎ Call Center Performance Dashboard
 
-**Power BI • DAX • Power Query**
+Power BI • DAX • Power Query
 
-* Designed Star Schema model
-* Built dynamic KPI dashboards
-* Implemented What-If Analysis
-* Optimized operational decision-making
+* Star Schema
+* KPI Dashboard
+* Dynamic DAX
+* What-if Analysis
 
 🔗 https://github.com/m0hamed-atif/Call-Center-Performance-Analysis
 
 ---
 
-## 🛒 Retail Sales Analytics Dashboard
+## 🛒 Retail Sales Dashboard
 
-**Excel • Power Query • Pivot Tables**
+Excel • Power Query
 
-* Cleaned transactional sales data
-* Designed 10+ business KPIs
-* Interactive Executive Dashboard
+* Interactive Dashboard
+* 10+ KPIs
+* Regional Analysis
 
 🔗 https://github.com/m0hamed-atif/furniture-sales-analytics-excel-dashboard
 
 ---
 
-# 🎓 Education
+# 📜 Certifications
 
-**Bachelor of Commerce**
-**Accounting & Finance**
+🏆 Google Data Analytics Professional Certificate
 
-Faculty of Commerce – Tanta University
-
-Expected Graduation: **2026**
+🏆 Digital Egypt Pioneers Initiative (DEPI)
 
 ---
 
-# 📜 Certifications
+# 🎓 Education
 
-* Google Data Analytics Professional Certificate
-* Digital Egypt Pioneers Initiative (DEPI)
+Bachelor of Commerce
+
+Accounting & Finance
+
+Tanta University
+
+Expected Graduation: **2026**
 
 ---
 
@@ -162,28 +214,56 @@ Expected Graduation: **2026**
 
 ---
 
-# 📈 GitHub Stats
+# 📈 GitHub Analytics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=m0hamed-atif&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=m0hamed-atif&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m0hamed-atif&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m0hamed-atif&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=m0hamed-atif&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=m0hamed-atif&theme=tokyo-night"/>
 
 </p>
 
 ---
 
-# 📫 Let's Connect
+# 🤝 Connect With Me
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/m0hamed-atif">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+<a href="mailto:mohamed.atif.gadalla@gmail.com">
+
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+
 </a>
 
-<a href="mailto:mohamed.atif.gadalla@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+<a href="https://www.linkedin.com/in/m0hamed-atif">
+
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+</a>
+
+<a href="https://github.com/m0hamed-atif">
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
 </a>
 
 </p>
+
+<div align="center">
+
+### ⭐ "Transforming Data into Actionable Business Insights."
+
+</div>
