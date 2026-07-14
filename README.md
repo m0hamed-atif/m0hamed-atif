@@ -66,30 +66,6 @@ I build **ETL pipelines, cloud data solutions, and Power BI dashboards** that tu
 
 ---
 
-## 📂 Featured Projects
-
-### 🔴 [Payroll Fraud Detection & HR Analytics Dashboard](https://github.com/m0hamed-atif)
-`Power BI` `DAX` `Python` `Financial Analysis`
-
-- Analyzed a **1,000-employee payroll dataset (EGP 31M total expense)** and detected **608 duplicate records** and **86 ghost employees** linked to **~$3M (≈10%)** in suspicious payroll expenses
-- Applied **Python-based anomaly detection** to flag abnormal bonus/overtime allocations and salary-vs-expense outliers across departments
-- Built an executive Power BI dashboard giving finance leadership real-time visibility into fraud indicators, replacing a manual audit process
-
-### 📞 [Call Center Performance Analysis — Salla](https://github.com/m0hamed-atif)
-`Power BI` `DAX` `Power Query` `Star Schema`
-
-- Consolidated **3 months of call center data (2M+ forecasted calls)** into a **Star Schema** model, enabling reliable MoM, ASA, and Abandonment Rate tracking
-- Proposed and built a dedicated "Why Analysis" view surfacing monthly per-agent response rates, helping management pinpoint root causes behind service-level gaps
-- Designed a **What-If simulation** letting leadership quantify how proposed ASA improvements would affect performance before committing resources
-
-### 🛒 [Retail Sales & Operations Analysis — Misuo](https://github.com/m0hamed-atif)
-`Excel` `Power Query` `Pivot Tables` `KPI Design`
-
-- Cleaned and standardized retail sales data (unified product, delivery, and payment methods) covering **$1.26M+ in total sales**
-- Designed **10+ KPIs** (on-time delivery rate, sales by platform, regional orders) into a single interactive Excel dashboard for business reporting
-- Surfaced a **15-day average delivery time** metric that flagged a fulfillment bottleneck for operational review
-
----
 
 ## 🎓 Certifications
 
